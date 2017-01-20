@@ -1,4 +1,4 @@
-FROM beevelop/base
+FROM ubuntu:16.04
 
 MAINTAINER Maik Hummel <m@ikhummel.com>
     
